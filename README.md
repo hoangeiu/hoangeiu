@@ -1,8 +1,8 @@
-### Hi there 👋
-
 <!-- [![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu) -->
 
-My name is Lê Minh Hoàng, I'm a software developer from Vietnam. 
+### Hi there 👋
+
+My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.
 
 <!--
 **hoangeiu/hoangeiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangeiu)](https://github.com/anuraghazra/github-readme-stats)      
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 
