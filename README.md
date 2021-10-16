@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu)
+<!-- [![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu) -->
+
+My name is Lê Minh Hoàng, I'm a software developer from Vietnam. 
 
 <!--
 **hoangeiu/hoangeiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
