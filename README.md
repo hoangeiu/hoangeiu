@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
     <td>
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      
     </td>
