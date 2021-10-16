@@ -19,10 +19,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      
+    </td>
+    <td>
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangeiu)](https://github.com/anuraghazra/github-readme-stats)      
+    </td>
+ </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangeiu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
