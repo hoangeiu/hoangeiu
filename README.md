@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangeiu&repo=github-readme-stats" />
+</a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+
 
 
 
