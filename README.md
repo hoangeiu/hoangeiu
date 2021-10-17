@@ -15,7 +15,9 @@
 </p>
 
 <p align="center" style="color:blue;">
+  
 **Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed.** 😄
+
 </p>
 
 
