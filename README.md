@@ -1,14 +1,14 @@
 <!-- [![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu) -->
 
-## Hi there 👋
+## Hello World! 👋
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=hoangeiu" alt="visitor badge"/>
 </div>
 
-
-
-My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.
+<p align="center">
+My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam. I taught myself basic coding from a library book in third grade, and ever since then my passion has solely been set on learning — learning about computers, learning mathematics and philosophy, studying design, always just learning. Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed. 😄
+</p>
 
 
 
@@ -33,36 +33,9 @@ My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietn
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<!--
-**hoangeiu/hoangeiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact&theme=radical" />
   </a>
 </p>
-
-
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-
-
-
-
-
-
-
