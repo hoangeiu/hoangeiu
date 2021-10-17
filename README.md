@@ -3,8 +3,9 @@
 ## Hello World! 👋
 
 <p align="center">
-  <b>My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at </b>
+  <b>My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam. </b>
 </p>
+
 [Hitachi Vantara Vietnam](https://www.facebook.com/HitachiVantaraVietnam).
 
 <p align="center">
