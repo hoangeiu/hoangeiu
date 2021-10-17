@@ -46,6 +46,8 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact&theme=radical" />
   </a>
 </p>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=hoangeiu&left_color=green&right_color=red)
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
