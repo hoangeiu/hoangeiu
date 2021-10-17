@@ -3,7 +3,7 @@
 ## Hello World! 👋
 
 <p align="center">
-  <b>My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam. </b>
+<b>My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at </b>
   
 [Hitachi Vantara Vietnam](https://www.facebook.com/HitachiVantaraVietnam)
   
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center" style="color:blue;">
-  <b>Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed.</b> 😄
+**Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed.** 😄
 </p>
 
 
