@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu) -->
+[![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu)
 
 ## Hello World! 👋
 
@@ -7,11 +7,11 @@
 </div>
 
 <p align="center">
-My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.
+  <b>My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.</b>
 </p>
 
 <p align="center">
-I taught myself basic coding from a library book in third grade, and ever since then my passion has solely been set on learning — learning about computers, learning mathematics and philosophy, studying design, always just learning. 
+  I taught myself basic coding from a library book in third grade, and ever since then my passion has solely been set on learning — learning about computers, learning mathematics and philosophy, studying design, always just learning. 
 </p>
 
 
