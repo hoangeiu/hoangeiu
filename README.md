@@ -15,9 +15,9 @@ I taught myself basic coding from a library book in third grade, and ever since 
 </p>
 
 
-<!-- <p align="center"> -->
-**Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed.** 😄
-<!-- </p> -->
+<div align="center">
+_**Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed.**_ 😄
+</div>
 
 
 ## Technology Stack 📚
