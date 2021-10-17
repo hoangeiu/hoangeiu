@@ -1,10 +1,14 @@
-[![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu)
+<!-- [![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu) -->
 
 ## Hi there 👋
 
 My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.
 
 ---
+
+<p align="center">
+## Technology Stack 👋
+</p>
 
 <!--
 **hoangeiu/hoangeiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
