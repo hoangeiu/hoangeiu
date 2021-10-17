@@ -1,23 +1,27 @@
-[![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu)
+<!-- [![MasterHead](https://github.com/hoangeiu/hoangeiu/blob/main/github.png)](https://github.com/hoangeiu) -->
 
 ## Hello World! 👋
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hoangeiu" alt="visitor badge"/>
-</div>
-
 <p align="center">
-  <b>My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.</b>
+  <b>
+    My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.
+    <br />
+    I taught myself basic coding from a library book in third grade, and ever since then my passion has solely been set on learning — learning about computers, learning mathematics and philosophy, studying design, always just learning. 
+  </b>
 </p>
 
 <p align="center">
-  I taught myself basic coding from a library book in third grade, and ever since then my passion has solely been set on learning — learning about computers, learning mathematics and philosophy, studying design, always just learning. 
+  
 </p>
 
 
 <p align="center" style="color:blue;">
   <b>Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed.</b> 😄
 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hoangeiu" alt="visitor badge"/>
+</div>
 
 <br />
 
