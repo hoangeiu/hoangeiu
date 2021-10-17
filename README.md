@@ -2,6 +2,10 @@
 
 ## Hi there 👋
 
+<p align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=hoangeiu&left_color=green&right_color=red)
+</p>
+
 My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at Hitachi Vantara Vietnam.
 
 
@@ -47,7 +51,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hoangeiu&left_color=green&right_color=red)
+
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangeiu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
