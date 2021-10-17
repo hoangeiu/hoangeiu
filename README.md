@@ -20,7 +20,6 @@ Now I’m ready to apply everything I’ve learned, and to help others with the 
 
 ## Technology Stack 📚
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
@@ -41,6 +40,11 @@ Now I’m ready to apply everything I’ve learned, and to help others with the 
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
 </div>
+
+## Top websites that I build & study 🏭 
+
+- [react-material-ui-arc](https://react-material-ui-arc.herokuapp.com/): ReactJS, Material-UI, Heroku
+- [Oshop](https://oshop1405.firebaseapp.com/): Angular, Firebase
 
 ---
 
