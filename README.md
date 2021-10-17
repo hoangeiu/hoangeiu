@@ -40,6 +40,8 @@ Now I’m ready to apply everything I’ve learned, and to help others with the 
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
 </div>
 
+<br />
+
 ## Top websites that I build & study 🏭 
 
 - [react-material-ui-arc](https://react-material-ui-arc.herokuapp.com/): ReactJS, Material-UI, Heroku
