@@ -14,8 +14,8 @@ My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietn
 I taught myself basic coding from a library book in third grade, and ever since then my passion has solely been set on learning — learning about computers, learning mathematics and philosophy, studying design, always just learning. 
 </p>
 
-<p align="center" style="font-weight: bold">
-Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed. 😄
+<p align="center">
+**Now I’m ready to apply everything I’ve learned, and to help others with the intuition I have developed.** 😄
 </p>
 
 ## Technology Stack 📚
