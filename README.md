@@ -5,7 +5,7 @@
 <p align="center">
 <b>My name is Lê Minh Hoàng and I'm a software developer engineer. I'm from Vietnam and currently working at </b>
   
-  [Hitachi Vantara Vietnam](https://www.facebook.com/HitachiVantaraVietnam)  
+[Hitachi Vantara Vietnam](https://www.facebook.com/HitachiVantaraVietnam)
 </p>
 
 
