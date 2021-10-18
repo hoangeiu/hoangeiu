@@ -47,6 +47,7 @@ I taught myself basic coding from a library book in third grade, and ever since 
 - [react-material-ui-arc](https://react-material-ui-arc.herokuapp.com/), [react-material-ui-manager](https://react-material-ui-manager.vercel.app/): ReactJS, Material-UI, Heroku
 - [Oshop](https://oshop1405.firebaseapp.com/): Angular, Firebase
 - [crwn-clothing](https://crwn5-live.herokuapp.com/): ReactJS, React Router, Redux, Hooks, Redux-Saga, Stripe and Firebase
+- [complete-guide-to-aspnetcore-web-api](https://github.com/hoangeiu/complete-guide-to-aspnetcore-web-api): .NET 5, Web API.
 
 ---
 
