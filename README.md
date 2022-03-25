@@ -48,7 +48,7 @@ I taught myself basic coding from a library book in third grade, and ever since 
 - [Oshop](https://oshop1405.firebaseapp.com/): Angular, Firebase
 - [crwn-clothing](https://crwn5-live.herokuapp.com/): ReactJS, React Router, Redux, Hooks, Redux-Saga, Stripe and Firebase
 - [complete-guide-to-aspnetcore-web-api](https://github.com/hoangeiu/complete-guide-to-aspnetcore-web-api): .NET 5, Web API.
-- [angular-net-skinet](https://skinet-12.herokuapp.com/): Angular12, .NET 5, Stripe, Postgre, Redis, Heroku.
+- [angular-net-skinet](https://skinet-12.herokuapp.com/): Angular12, .NET 5, Stripe, Postgre, Redis, Heroku..
 
 ---
 
